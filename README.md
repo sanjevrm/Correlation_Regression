@@ -1,5 +1,5 @@
-                                                                        Name:Sanjev R M
-                                                                        Reg no:212223040186
+                                                                    Name:Sanjev R M
+                                                                    Reg no:212223040186
 # EX-3:Correlation and regression for data analysis
 # Aim : 
 
